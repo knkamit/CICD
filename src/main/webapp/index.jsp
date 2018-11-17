@@ -43,20 +43,14 @@
       <div class="hero-unit">
         <div>
           <h1>
-            Welcome to Fitness Tracker!
+            Welcome to CICD Session!
           </h1>
           <p>
             To get started, we need to enter a goal for what we want to exercise for
             today.
           </p>
-        </div>
-        <a class="btn btn-primary" href="addGoal.html">
-          Add Goal
-        </a>
         
-        <a class="btn btn-primary" href="addMinutes.html">
-          Add Exercise Minutes
-        </a>
+        
       </div>
       <div>
       </div>
