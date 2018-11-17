@@ -32,7 +32,7 @@
       <div class="navbar-inner">
         <div class="container">
           <a class="brand" href="addGoal.html">
-            Hello Amit Congratulations.
+            Hello Amit.
           </a>
           <ul class="nav">
           </ul>
@@ -51,11 +51,11 @@
           </p>
         </div>
         <a class="btn btn-primary" href="addGoal.html">
-          Add Goal »
+          Add Goal
         </a>
         
         <a class="btn btn-primary" href="addMinutes.html">
-          Add Exercise Minutes »
+          Add Exercise Minutes
         </a>
       </div>
       <div>
