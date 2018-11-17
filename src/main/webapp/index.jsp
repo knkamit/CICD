@@ -45,10 +45,7 @@
           <h1>
             Welcome to CICD Session!
           </h1>
-          <p>
-            To get started, we need to enter a goal for what we want to exercise for
-            today.
-          </p>
+         
         
         
       </div>
